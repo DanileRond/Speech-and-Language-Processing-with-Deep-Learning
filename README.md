@@ -1,5 +1,5 @@
 # Speech-and-Language-Processing-with-Deep-Learning
-Master's degree in Advanced Telecommunication Technologies (MATT)
+This repository contains the works and laboratories of Speech and Language Language Processing I do in the Master's degree in Advanced Telecommunication Technologies (MATT), at Universitat Politècnica de Catalunya.
 
 
 ### [Catalan Word Vectors. Training and analysis.](https://github.com/DanileRond/Speech-and-Language-Processing-with-Deep-Learning/blob/main/Catalan_WordVectors-.pdf)
